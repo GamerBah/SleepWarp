@@ -17,11 +17,3 @@ https://user-images.githubusercontent.com/19187704/155883315-6bbac83b-b429-4f41-
 
 https://user-images.githubusercontent.com/19187704/155883317-07af47a1-cb13-4895-a577-612c656077ab.mp4
 </details>
-
-> # Archived
-> I've been very busy nowadays and I've lost interest in modding Minecraft in my spare time, so I've decided to archive this project.
-> 
-> The `development` and `1.20.x` branches are unstable as a result of experimentation with multithreading ticks.
-> All other branches (`1.19.x` and older) were a written lot simipler and are stable in single player but playing on multiplayer isn't the best experience.
->
-> If you wish to fork this project or reference any code in this repository, feel free to do so. All I ask is that you respect the [license](https://github.com/Giggitybyte/SleepWarp/blob/development/LICENSE).
